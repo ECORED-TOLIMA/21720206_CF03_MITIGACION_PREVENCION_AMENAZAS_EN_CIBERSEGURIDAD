@@ -17,7 +17,7 @@
                 figure
                   img(src='@/assets/curso/temas/ico01.svg', alt='Imagen decorativa')
               .col.mb-3
-                p.mb-0 El modelo OSI (Open Systems Interconnection), por ejemplo, ofrece una estructura lógica que permite analizar las vulnerabilidades presentes en cada capa de comunicación. Mientras la capa física requiere mecanismos de control de acceso físico, la capa de aplicación demanda estrategias específicas contra amenazas como <em>malware</em> o ataques de ingeniería social. A su vez, técnicas como la segmentación de redes, el uso de redes privadas virtuales (VPN) y el cifrado de extremo a extremo fortalecen la protección frente a accesos no autorizados e intercepciones
+                p.mb-0 El modelo OSI (Open Systems Interconnection), por ejemplo, ofrece una estructura lógica que permite analizar las vulnerabilidades presentes en cada capa de comunicación. Mientras la capa física requiere mecanismos de control de acceso físico, la capa de aplicación demanda estrategias específicas contra amenazas como <em>malware</em> o ataques de ingeniería social. A su vez, técnicas como la segmentación de redes, el uso de redes privadas virtuales (VPN) y el cifrado de extremo a extremo fortalecen la protección frente a accesos no autorizados e intercepciones.
 
           .col-lg-3.col-6.col-md-6.col-8.order-lg-1.order-1.mb-lg-0.mb-3
             figure

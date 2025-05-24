@@ -79,7 +79,7 @@
                 p <b>D)</b> La información recolectada fue vendida a Cambridge Analytica, que la utilizó para crear perfiles psicológicos y diseñar campañas políticas altamente segmentadas, influyendo en procesos como la elección de Donald Trump (EE.UU., 2016) y el referéndum del Brexit (Reino Unido).
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      P A continuación, se presentan los impacto y consecuencias de esta filtración:            
+      P A continuación, se presentan los impactos y consecuencias de esta filtración:            
       .col-12
         .row.justify-content-center.align-items-center
           .col-lg-8.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0.mb-0
@@ -297,7 +297,7 @@
                   li.mb-4 
                     .lista-ol--cuadro__vineta.v--green
                       span A.
-                    p.mb-0 <b>Evaluar los riesgos:</b> conocer qué activos deben protegerse ayuda a asignar recursos y justificar las inversiones en ciberseguridad.
+                    p.mb-0 <b>Evaluar los riesgos:</b> conocer qué activos deben protegerse, ayuda a asignar recursos y justificar las inversiones en ciberseguridad.
                   li.mb-4 
                     .lista-ol--cuadro__vineta.v--green
                       span B.
